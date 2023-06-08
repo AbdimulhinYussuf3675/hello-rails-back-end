@@ -42,7 +42,6 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- React JS
 - Ruby on Rails
 - VSCode
 - Rubocop
@@ -53,7 +52,6 @@
 <details>
   <summary>Linters</summary>
   <ul>
-  <li>StyleLint</li>
   <li>Rubocop</li>
   </ul>
 </details>
@@ -179,7 +177,7 @@ If you like this project kindly give it a star ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the project idea
+I would like to thank Microverse for the learning oppotunity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
